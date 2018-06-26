@@ -1,0 +1,19 @@
+* {
+	text-align: center;
+	margin:auto;
+	width:550px;
+}
+a {
+	margin: 10px 10px 50px 10px;
+	padding: 10px;
+}
+h1 {
+	color: #900C3F;
+	padding: 30px;
+}
+img {
+	width: 450px;
+}
+p {
+	padding: 10px;
+}
